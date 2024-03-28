@@ -1,4 +1,4 @@
-colorscheme pablo "best night mode custom from .vim
+colorscheme desert "best night mode custom from .vim
 "colorscheme codedark "best night mode custom from .vim
 "colorscheme darcula "This is to solve backspae problem
 "colorscheme solarize "best for day comes by defualt with every vim 
