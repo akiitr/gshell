@@ -8,7 +8,7 @@ sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.deb
 Google Chrome browser:
 rm -rf google-chrome-stable_current_amd64.deb
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt-get install --assume-yes ./direct/google-chrome-stable_current_amd64.deb
+sudo apt-get install --assume-yes ./google-chrome-stable_current_amd64.deb
 
 #utility packages
 sudo apt-get install --assume-yes vim-gtk3
